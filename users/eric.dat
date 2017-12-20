@@ -1,0 +1,16 @@
+make_user(
+    'Eric Gan',     # name
+    [                   # reviews
+        # Northside restaurants
+        make_review('Cafe 3', 2.0),
+        make_review('Chipotle Mexican Grill', 3.5),
+        make_review('Crossroads', 3.0),
+        make_review('Durant Square - Asian Ghetto', 4.5),
+        make_review('Golden Bear Cafe', 3.0),
+        make_review("Gypsy's Trattoria Italiano", 4.5),
+        make_review('La Burrita', 4.0),
+        make_review('Sweetheart Cafe', 4.0),
+        make_review('The Melt Berkeley', 3.5),
+        make_review('Top Dog', 3.5),
+    ]
+)
