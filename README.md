@@ -27,6 +27,6 @@ Rate a couple of your favorite (or least favorite) restaurants.
 
 4. Use `recommend.py` to predict ratings for you: `python3 recommend.py -u john -k 2 -p -q Sandwiches`
 
-(Replace john with your name.) Play around with the number of clusters (the -k option) and try different queries (with the -q option)!
+(Replace john with your name.) Clusters are adjusted using (the -k option) and queries using (the -q option)!
 
 Technologies Used: Python, JavaScript, HTML
