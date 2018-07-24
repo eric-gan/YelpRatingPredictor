@@ -21,7 +21,7 @@ make_user(
 
 Replace the second line with your name (as a string).
 
-3. Replace the existing reviews with reviews of your own! You can get a list of Berkeley restaurants with the following command: 'python3 recommend.py -r'
+3. Replace the existing reviews with reviews of your own! You can get a list of Berkeley restaurants with the following command: `python3 recommend.py -r`
 
 Rate a couple of your favorite (or least favorite) restaurants.
 
